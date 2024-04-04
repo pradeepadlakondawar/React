@@ -1,6 +1,8 @@
 import React from 'react'
-// import {Signup as SignupComponent} from "../components/index"
-import {Signup as SignupComponent }  from '../components'
+import {Signup as SignupComponent} from "../components/index"
+// import { Signup as SignupComponent } from "../components/index.js";
+
+// import {Signup }  from '../components/index'
 
 
 function Signup() {
@@ -11,4 +13,4 @@ function Signup() {
   )
 }
 
-export default Signup
+export default Signup;
